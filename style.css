@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+    
+    
+}
+h1{
+    text-transform: capitalize;
+    color: bisque;
+    font-family:  "Libre Baskerville", serif;
+}
+p{
+    text-transform: capitalize;
+    color: aliceblue;
+    font-family:  "Libre Baskerville", serif;;
+}
+img{
+    margin: 0%;
+    border: 3px solid white;
+    margin-top: 100px;
+}
+div{
+    align-content: center;
+    text-align: center;
+}
